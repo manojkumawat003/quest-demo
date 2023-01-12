@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363823258532",
+    "project_id": "quest-demo-12845",
+    "storage_bucket": "quest-demo-12845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363823258532:android:fa9d901cebbbc543deff31",
+        "android_client_info": {
+          "package_name": "com.example.quest_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363823258532-k29efk3l9g6j35up8c67qq21c6s6kbmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxi_m7ssQZzNekay0MXfadM412Z1m6nIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363823258532-k29efk3l9g6j35up8c67qq21c6s6kbmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
